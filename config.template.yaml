@@ -1,0 +1,10 @@
+teams:
+  - England
+  - Germany
+websites:
+  - williamhill
+  - paddypower
+
+schedule:
+  interval: 5
+  filename: table.json
